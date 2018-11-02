@@ -1,0 +1,1 @@
+INSERT INTO `invctl` VALUES (0,'0000003');

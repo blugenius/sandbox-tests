@@ -1,0 +1,1 @@
+INSERT INTO ata_user (id, firstname, lastname) VALUES (1, 'user_firstname', 'user_lastname');
